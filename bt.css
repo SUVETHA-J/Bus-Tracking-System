@@ -1,0 +1,51 @@
+.busboard{
+    border:2px solid black;
+    height:800px;
+    border-radius:50px;
+    margin:80px auto 10px; width: 100%;
+    max-width: 1500px;
+    padding: 50px;
+    background-color: rgb(41, 37, 37);
+    opacity: 0.7;
+    color:white;
+}
+.inli{
+   padding: 40px;
+    display: flex;
+    justify-content: space-around;
+
+}
+label{
+    font-size: 25px;
+    font-weight: bold;
+}
+input{
+    padding: 15px;
+width:400px;
+font-size: 20px;}
+#btnsub{
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+
+}
+#bustble{
+    text-align: center;
+    
+}
+th{
+    padding: 20px;
+    width: 500px;
+}
+table{
+    padding: 10px;
+    border: none;
+} 
+td{
+    font-weight: bold;
+    font-size: 20px;
+}
+.row{
+    font-weight: bold;
+    font-size: 20px;
+}
